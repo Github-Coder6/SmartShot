@@ -1,0 +1,26 @@
+#background-video {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+  }
+
+.beautify{
+    border-radius: 275px;
+    height: 350px;
+    width: 350px;
+}
+.prettify{
+    font-family: 'Praise', cursive;
+    color: white;
+    font-size: 70px;
+}
+.nextify{
+    color:white;
+    font-family: 'Montagu Slab', serif;
+}
